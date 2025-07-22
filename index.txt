@@ -3,7 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <title>My First HTML Page</title>
-   
+   <style>
+        body{
+            color:#000;
+            background-color:orange;
+        }
+    </style>
 </head>
 <body>
 
