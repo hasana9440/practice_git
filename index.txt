@@ -5,8 +5,8 @@
     <title>My First HTML Page</title>
    <style>
         body{
-            color:#000;
-            background-color:orange;
+            color : #000 ;
+            background-color: orange ;
         }
     </style>
 </head>
